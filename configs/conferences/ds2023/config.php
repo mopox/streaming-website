@@ -77,7 +77,7 @@ $CONFIG['CONFERENCE'] = array(
 	 * Wird diese Zeile auskommentiert, wird kein Banner ausgegeben.
 	 */
 //	'BANNER_HTML' => '<img src="../configs/conferences/jh-hh-2019/Banner_JH-Hamburg-2019.svg" class="jhhh">',
-	'BANNER_HTML' => '<img class="outer-div" style="width: 200px" src="//static.media.ccc.de/media/events/datenspuren/2023/logo.png">',
+	'BANNER_HTML' => '<img class="outer-div" style="width: 200px; margin: 1em auto; display: inline-block" src="//static.media.ccc.de/media/events/datenspuren/2023/logo.png">',
 
 	/**
 	 * Link zu den Recordings
